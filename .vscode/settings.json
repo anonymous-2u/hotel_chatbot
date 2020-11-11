@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "F:\\anaconda3\\envs\\installingrasa\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
